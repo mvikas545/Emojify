@@ -1,2 +1,3 @@
 # Emojify
-Convert Simple text to emojify text.
+Convert Simple text to Emojify text.
+
